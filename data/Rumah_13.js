@@ -1,0 +1,1 @@
+var json_Rumah_13 = {"type":"FeatureCollection","name":"Rumah_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Rumah Reza Pahlevi"},"geometry":{"type":"Point","coordinates":[109.308555683350122,-7.477003945775661]}}]}

@@ -1,0 +1,1 @@
+var json_Kesehatan_14 = {"type":"FeatureCollection","name":"Kesehatan_14","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Polindes Desa Pajerukan"},"geometry":{"type":"Point","coordinates":[109.308958584097482,-7.4787026610651]}}]}

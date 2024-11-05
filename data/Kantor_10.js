@@ -1,0 +1,1 @@
+var json_Kantor_10 = {"type":"FeatureCollection","name":"Kantor_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nama":"Kantor Kepala Desa Pajerukan"},"geometry":{"type":"Point","coordinates":[109.308568278748808,-7.472766429555866]}}]}
